@@ -1,0 +1,25 @@
+#sop_heading_icon {
+    background-image: url("icon-large.png");
+}
+
+#sop_toolbar {
+    padding: 1em 0;
+    overflow: hidden;
+    display: block;
+}
+
+#sop_toolbar p, #sop_toolbar label {
+    display: inline-block;
+    margin: 0;
+    line-height: 1em;
+}
+
+#sop_posts_navigation li {
+    float: left;
+    margin: 0 15px 0 0;
+}
+
+#sop_posts_navigation li a {
+    padding: 0 5px;
+    text-decoration: none;
+}
